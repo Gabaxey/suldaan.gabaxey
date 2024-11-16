@@ -1,56 +1,21 @@
+<h1 align="center">Hi 👋, I'm sultn.gabaxey</h1>
+<h3 align="center">A passionate full stack developer from Somalia</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabaxey&label=Profile%20views&color=0e75b6&style=flat" alt="gabaxey" /> </p>
 
-# Hello there 👋
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabaxey" alt="gabaxey" /></a> </p>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=sultan-gabaxey.sultan-gabaxey)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+- 💬 Ask me about **python Java JavaScript Html Css**
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+- ⚡ Fun fact **talks is cheap show me the code**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-class SoftwareEngineer:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-    def __init__(self):
-        self.name = "sultan.gabaxey"
-        self.role = "FullStack developer🚀"
-        self.language_spoken = ["Somalia", "en_US"]
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabaxey&show_icons=true&locale=en" alt="gabaxey" /></p>
 
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-
-me = SoftwareEngineer()
-me.say_hi()
-```
-
-
-
-<!-- ## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/sultan.gabaxey/sultan.gabaxey">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultan-gabaxey&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
-</a>
-
-<a href="https://github.com/sultan-gabaxey/sultan-gabxey">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sultan-gabxey&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
-</a> -->
-[![Omar-Tood's GitHub stats](https://github-readme-stats.vercel.app/api?username=sultan.gabaxey)](https://github.com/Omar-Tood/github-readme-stats) 
-
-
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Omar-Tood&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-<a href="https://github.com/sultan.gabaxey/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Tood&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-
-<a href="https://github.com/Omar-Tood/crnn-pytorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sultan.gabxey&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
-</a>
-
-<!-- ## 👨‍💻 This week, I spent my time on:
-
-[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazhenye&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats) -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabaxey&" alt="gabaxey" /></p>
